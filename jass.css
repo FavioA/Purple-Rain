@@ -50,11 +50,14 @@ body {
     padding-left: 20px;
   }
   
-  #currentWeater,
-  #forecastWeater {
+  #currentWeather {
     margin-top: 20px;
   }
-  
+   
+  #forecastWeather {
+    margin-top: 20px;
+    color: #000000; /* Black text color */
+  }
   .forecast-item {
     border: 1px solid #dee2e6; /* Light gray border */
     padding: 10px;
